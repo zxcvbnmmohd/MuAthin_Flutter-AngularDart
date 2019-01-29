@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>524415398126-2ce1ika4bk8ovtq7kljn96hoq4lj6mma.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.524415398126-2ce1ika4bk8ovtq7kljn96hoq4lj6mma</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABvhYov-5Mw4F26vXIgl7HOjp-x9YzlBo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>524415398126</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ca.mohd.muathin</string>
+	<key>PROJECT_ID</key>
+	<string>muathin-ccf65</string>
+	<key>STORAGE_BUCKET</key>
+	<string>muathin-ccf65.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:524415398126:ios:819db4e4553cc79e</string>
+	<key>DATABASE_URL</key>
+	<string>https://muathin-ccf65.firebaseio.com</string>
+</dict>
+</plist>

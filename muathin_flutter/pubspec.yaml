@@ -1,0 +1,79 @@
+name: muathin
+description: The Call To Prayer
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  muathin_common:
+    path: ../muathin_common
+
+  camera:
+  country_pickers:
+  cupertino_icons:
+  device_info:
+  bloc:
+  flutter_bloc:
+  flushbar:
+  flutter_auth_buttons:
+  flutter_masked_text:
+  google_places_picker:
+  image_picker:
+  intl:
+  page_transition:
+  page_view_indicator:
+  path_provider:
+  shared_preferences:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/src/assets/images/account.png
+    - lib/src/assets/images/add.png
+    - lib/src/assets/images/alert.png
+    - lib/src/assets/images/alert-mute.png
+    - lib/src/assets/images/archive.png
+    - lib/src/assets/images/asr.png
+    - lib/src/assets/images/back.png
+    - lib/src/assets/images/bookmark.png
+    - lib/src/assets/images/call.png
+    - lib/src/assets/images/chat.png
+    - lib/src/assets/images/close.png
+    - lib/src/assets/images/eid.png
+    - lib/src/assets/images/fajr.png
+    - lib/src/assets/images/feed.png
+    - lib/src/assets/images/filter.png
+    - lib/src/assets/images/forward.png
+    - lib/src/assets/images/gps.png
+    - lib/src/assets/images/isha.png
+    - lib/src/assets/images/like.png
+    - lib/src/assets/images/logo.png
+    - lib/src/assets/images/maghreb.png
+    - lib/src/assets/images/mosque.png
+    - lib/src/assets/images/refresh.png
+    - lib/src/assets/images/salahs.png
+    - lib/src/assets/images/search.png
+    - lib/src/assets/images/settings.png
+    - lib/src/assets/images/thuhr.png
+    - lib/src/assets/images/time.png
+    - lib/src/assets/images/trash.png
+    - lib/src/assets/images/upload-photo.png
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700

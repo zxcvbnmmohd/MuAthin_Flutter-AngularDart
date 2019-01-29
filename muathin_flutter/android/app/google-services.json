@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "524415398126",
+    "firebase_url": "https://muathin-ccf65.firebaseio.com",
+    "project_id": "muathin-ccf65",
+    "storage_bucket": "muathin-ccf65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524415398126:android:819db4e4553cc79e",
+        "android_client_info": {
+          "package_name": "ca.mohd.muathin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524415398126-srmmj9v2sdf7vevisrtr2a7eom8magb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.mohd.muathin",
+            "certificate_hash": "a25eadc955bb0d85f1599eda7f9bd2883c986b50"
+          }
+        },
+        {
+          "client_id": "524415398126-bge755537j6v075s67gadkjrjg8pd1ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZVimUFD2RI4vcssbgJ5u5q4WLDJckhM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524415398126-bge755537j6v075s67gadkjrjg8pd1ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
